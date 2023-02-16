@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webx", "webx\webx.csproj", "{EFEB64F3-D649-46FC-A498-30A0F083B635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware.Tests", "Middleware.Tests\Middleware.Tests.csproj", "{A1F8476B-C90A-4586-9B7D-950B0E64AFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFEB64F3-D649-46FC-A498-30A0F083B635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFEB64F3-D649-46FC-A498-30A0F083B635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFEB64F3-D649-46FC-A498-30A0F083B635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFEB64F3-D649-46FC-A498-30A0F083B635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F8476B-C90A-4586-9B7D-950B0E64AFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F8476B-C90A-4586-9B7D-950B0E64AFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F8476B-C90A-4586-9B7D-950B0E64AFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F8476B-C90A-4586-9B7D-950B0E64AFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
